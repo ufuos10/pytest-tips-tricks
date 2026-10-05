@@ -1,3 +1,6 @@
+[![Python application test with Github Actions](https://github.com/ufuos10/pytest-tips-tricks/actions/workflows/testing-ci.yml/badge.svg)](https://github.com/ufuos10/pytest-tips-tricks/actions/workflows/testing-ci.yml)
+
+
 ## 🎓 Pragmatic AI Labs | Join 1M+ ML Engineers
 
 [](https://github.com/noahgift/pytest-tips-tricks/blob/main/README.md#-pragmatic-ai-labs--join-1m-ml-engineers)
